@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+
+}
+
+.container h2 {
+
+    color: rgba(241, 241, 249, 0.974);
+    margin-bottom: 100px;
+    font-size: 50px
+
+}
+
+.container {
+    text-align: center;
+}
+
+.result {
+    font-family: 'Chava', sans-serif;
+    font-size: 174px;
+    font-weight: 400;
+    line-height: 187.05px;
+    
+    /* text-align: left; */
+    /* flex-wrap: nowrap; */
+
+}
+
+.text {
+    font-size: 15px;
+    display: inline-block;
+    
+}
+
+.button {
+    color: blueviolet;
+    height: 61px;
+    width: 328px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 20px;
+    
+     
+    
+
+}
