@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    padding: 0 121px;
+
+}
+
+section img {
+    width: 295px;
+    height: 41px;
+    top: 37px;
+    left: 121px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.logo {
+    margin-top: 37px;
+    margin-bottom: 85px;
+}
+
+.info {
+    font-size: 21px;
+}
